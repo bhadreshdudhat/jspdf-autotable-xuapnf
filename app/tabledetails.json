@@ -1,0 +1,88 @@
+{
+  "columns": [
+    {
+      "name": "ID",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Elements to be Verified",
+      "subcolumns": []
+    },
+    {
+      "name": "VERIFICATION LEVEL",
+      "subcolumns": [
+        {
+          "name": "Low"
+        },
+        {
+          "name": "Medium"
+        },
+        {
+          "name": "High"
+        }
+      ]
+    },
+    {
+      "name": "Verification Activities",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Assurance Deliverables Satisfied on Closure",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Doc. Number",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Doc. Name",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Doc. Reviewed By",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Item No.",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Section No.",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Verification Comment",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Issued Date",
+      "subcolumns": [
+        {
+          "name": "Planned"
+        },
+        {
+          "name": "Actual"
+        }
+      ]
+    },
+    {
+      "name": "Company Response",
+      "subcolumns": [ ]
+    },
+    {
+      "name": "Response Date",
+      "subcolumns": [
+        {
+          "name": "Planned"
+        },
+        {
+          "name": "Actual"
+        }
+      ]
+    },
+    {
+      "name": "Verification Status",
+      "subcolumns": [ ]
+    }
+  ]
+}

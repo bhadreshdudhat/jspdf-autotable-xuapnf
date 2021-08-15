@@ -1,0 +1,23 @@
+table,
+td,
+th {
+  border: 1px solid #595959;
+  border-collapse: collapse;
+  text-align: center;
+  white-space: pre-line;
+}
+td,
+th {
+  padding: 3px;
+  width: 30px;
+  height: 25px;
+}
+th {
+  background: #d1a32f;
+}
+.even {
+  background: #fbf8f0;
+}
+.odd {
+  background: #fefcf9;
+}

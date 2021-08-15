@@ -1,0 +1,275 @@
+[
+  {
+      "TableType" : "str-design",
+      "RowId": "PL.V-1",
+      "VerEle": "Development Concepts",
+      "Ver_L": "-",
+      "Ver_M": "R1",
+      "Ver_H": "-",
+      "VerAct": " - Review basis for selection of process design \n- Review basis for selection of process design \n- Review basis for selection of process design",
+      "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+      "DynamicRows":
+      [
+          {
+            "DocNum": "1",
+            "DocName": "1",
+            "DocRecBy": "1",
+            "ItemNo": "1",
+            "SecNo": "1",
+            "VerComment": "1",
+            "IssPlnDt": "1",
+            "IssActDt": "1",
+            "CompanyResponse": "1",
+            "ResPlnDt": "1",
+            "ResActDt": "1",
+            "VerStatus": "1"
+          },
+          {
+            "DocNum": "1",
+            "DocName": "1",
+            "DocRecBy": "1",
+            "ItemNo": "1",
+            "SecNo": "1",
+            "VerComment": "1",
+            "IssPlnDt": "1",
+            "IssActDt": "1",
+            "CompanyResponse": "1",
+            "ResPlnDt": "1",
+            "ResActDt": "1",
+            "VerStatus": "1"
+          },
+          {
+            "DocNum": "1",
+            "DocName": "1",
+            "DocRecBy": "1",
+            "ItemNo": "1",
+            "SecNo": "1",
+            "VerComment": "1",
+            "IssPlnDt": "1",
+            "IssActDt": "1",
+            "CompanyResponse": "1",
+            "ResPlnDt": "1",
+            "ResActDt": "1",
+            "VerStatus": "1"
+          }
+      ]
+  },
+  {
+    "TableType" : "str-design",
+    "RowId": "PL.V-2",
+    "VerEle": "Development Concepts",
+    "Ver_L": "-",
+    "Ver_M": "R1",
+    "Ver_H": "-",
+    "VerAct": " - Review basis for selection of process design",
+    "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+    "DynamicRows":
+    [
+
+    ]
+},
+{
+  "TableType" : "str-design",
+  "RowId": "PL.V-3",
+  "VerEle": "Development Concepts",
+  "Ver_L": "-",
+  "Ver_M": "R1",
+  "Ver_H": "-",
+  "VerAct": " - Review basis for selection of process design",
+  "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+  "DynamicRows":
+  [
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      },
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      }
+  ]
+},
+{
+  "TableType" : "str-design",
+  "RowId": "PL.V-4",
+  "VerEle": "Development Concepts",
+  "Ver_L": "-",
+  "Ver_M": "R1",
+  "Ver_H": "-",
+  "VerAct": " - Review basis for selection of process design",
+  "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+  "DynamicRows":
+  [
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      }
+  ]
+},
+{
+  "TableType" : "str-design",
+  "RowId": "PL.V-4",
+  "VerEle": "Development Concepts",
+  "Ver_L": "-",
+  "Ver_M": "R1",
+  "Ver_H": "-",
+  "VerAct": " - Review basis for selection of process design",
+  "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+  "DynamicRows":
+  [
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      }
+  ]
+},
+{
+  "TableType" : "str-design",
+  "RowId": "PL.V-4",
+  "VerEle": "Development Concepts",
+  "Ver_L": "-",
+  "Ver_M": "R1",
+  "Ver_H": "-",
+  "VerAct": " - Review basis for selection of process design",
+  "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+  "DynamicRows":
+  [
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      }
+  ]
+},
+{
+  "TableType" : "str-design",
+  "RowId": "PL.V-4",
+  "VerEle": "Development Concepts",
+  "Ver_L": "-",
+  "Ver_M": "R1",
+  "Ver_H": "-",
+  "VerAct": " - Review basis for selection of process design",
+  "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+  "DynamicRows":
+  [
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      }
+  ]
+},
+{
+  "TableType" : "str-design",
+  "RowId": "PL.V-4",
+  "VerEle": "Development Concepts",
+  "Ver_L": "-",
+  "Ver_M": "R1",
+  "Ver_H": "-",
+  "VerAct": " - Review basis for selection of process design",
+  "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+  "DynamicRows":
+  [
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      }
+  ]
+},
+{
+  "TableType" : "str-design",
+  "RowId": "PL.V-4",
+  "VerEle": "Development Concepts",
+  "Ver_L": "-",
+  "Ver_M": "R1",
+  "Ver_H": "-",
+  "VerAct": " - Review basis for selection of process design",
+  "AssDel": "Platform type or concept is appropriate and acceptable for the intended use",
+  "DynamicRows":
+  [
+      {
+        "DocNum": "1",
+        "DocName": "1",
+        "DocRecBy": "1",
+        "ItemNo": "1",
+        "SecNo": "1",
+        "VerComment": "1",
+        "IssPlnDt": "1",
+        "IssActDt": "1",
+        "CompanyResponse": "1",
+        "ResPlnDt": "1",
+        "ResActDt": "1",
+        "VerStatus": "1"
+      }
+  ]
+}
+
+]

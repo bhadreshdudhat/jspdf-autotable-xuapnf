@@ -1,0 +1,51 @@
+<div>
+  <button (click)="topdf()">pdf</button>
+  <table id='stable'>
+    <thead>
+      <!-- headers -->
+      <tr>
+        <ng-container *ngFor="let col of tabledetails.columns">
+          <th [attr.colspan]="col.subcolumns.length" [attr.rowspan]="col.subcolumns.length == 0  ? 2 : 1">{{ col.name }}
+          </th>
+        </ng-container>
+      </tr>
+      <tr>
+        <ng-container *ngFor="let col of tabledetails.columns">
+          <ng-container *ngFor="let subCol of col.subcolumns">
+            <th>{{ subCol.name }} </th>
+          </ng-container>
+        </ng-container>
+      </tr>
+    </thead>
+    <!-- data rows -->
+    <tbody>
+      <ng-container *ngFor="let row of tabledata">
+        <tr>
+          <td [attr.rowspan]="row.DynamicRows.length+1"> {{row.RowId}} </td>
+          <td [attr.rowspan]="row.DynamicRows.length+1"> {{row.VerEle}} </td>
+          <td [attr.rowspan]="row.DynamicRows.length+1"> {{row.Ver_L}} </td>
+          <td [attr.rowspan]="row.DynamicRows.length+1"> {{row.Ver_M}} </td>
+          <td [attr.rowspan]="row.DynamicRows.length+1"> {{row.Ver_H}} </td>
+          <td [attr.rowspan]="row.DynamicRows.length+1"> {{row.VerAct}} </td>
+          <td [attr.rowspan]="row.DynamicRows.length+1"> {{row.AssDel}} </td>
+        </tr>
+        <tr *ngFor="let dr of row.DynamicRows;">
+          <td> {{dr.DocNum }}</td>
+          <td> {{dr.DocName }}</td>
+          <td> {{dr.DocRecBy }}</td>
+          <td> {{dr.ItemNo }}</td>
+          <td> {{dr.SecNo }}</td>
+          <td> {{dr.VerComment }}</td>
+          <td> {{dr.IssPlnDt }}</td>
+          <td> {{dr.IssActDt }}</td>
+          <td> {{dr.CompanyResponse }}</td>
+          <td> {{dr.ResPlnDt }}</td>
+          <td> {{dr.ResActDt }}</td>
+          <td> {{dr.VerStatus }}</td>
+        </tr>
+      </ng-container>
+    </tbody>
+
+  </table>
+
+</div>
